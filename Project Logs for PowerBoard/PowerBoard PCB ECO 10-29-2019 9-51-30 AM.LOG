@@ -1,0 +1,36 @@
+Added Component: Designator=LED1(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC0805(2012)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "MCPWR05FTEW2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "1887395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "43T5453"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POWERRATING"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = "± 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0805(2012)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "MCPWR05FTEW2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_FARNELL"; Value = "1887395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_NEWARK"; Value = "43T5453"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POWERRATING"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TOLERANCE"; Value = "± 1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1--
+Added Pin To Net: NetName=GND Pin=LED2--
+Added Pin To Net: NetName=NetF1_2 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetLED1_+ Pin=LED1-+
+Added Pin To Net: NetName=NetLED1_+ Pin=R1-1
+Added Net: Name=NetLED1_+
+Added Pin To Net: NetName=NetLED2_+ Pin=LED2-+
+Added Pin To Net: NetName=NetLED2_+ Pin=R2-1
+Added Net: Name=NetLED2_+
+Added Member To Class: ClassName=PowerBoard Member=Component LED1 VIN
+Added Member To Class: ClassName=PowerBoard Member=Component LED2 5V PWR
+Added Member To Class: ClassName=PowerBoard Member=Component R1 2.2K
+Added Member To Class: ClassName=PowerBoard Member=Component R2 1K

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=VR1 Old Footprint=*VX78012-1000_VX7805-1000 New Footprint=VX7805-1000
+Change component parameters: Designator = "C1"; Footprint = "RES_0805"; UniqueID = "\WYWLHWUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "RES_0805"; UniqueID = "\CRZRMNEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PowerBoard Member=Component J1 PJ-002AH

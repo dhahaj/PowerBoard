@@ -1,0 +1,12 @@
+Added Component: Designator=MH1(Mounting-Hole-RND-Altium)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH2(Mounting-Hole-RND-Altium)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(Mounting-Hole-RND-Altium)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(Mounting-Hole-RND-Altium)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=PowerBoard Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=PowerBoard Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=PowerBoard Member=Component MH3 Mounting Hole
+Added Member To Class: ClassName=PowerBoard Member=Component MH4 Mounting Hole
